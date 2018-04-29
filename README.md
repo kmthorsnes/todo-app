@@ -1,24 +1,22 @@
-# README
+# Todo app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+TODO-app. Basic rails CRUD app.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+* [Ruby on rails 5.2](http://rubyonrails.org/) - The framework used
+* [SASS](https://sass-lang.com/) - CSS preprocessor
+* [Font awesome](https://fontawesome.com/) - Fonts
 
-* System dependencies
+## Screenshots
+![Screenshot](https://github.com/kmthorsnes/todo-app/blob/master/screenshots/Skjermbilde1.png?raw=true "Optional title")
 
-* Configuration
+![Screenshot](https://github.com/kmthorsnes/todo-app/blob/master/screenshots/Skjermbilde2.png?raw=true "Optional title")
 
-* Database creation
+![Screenshot](https://github.com/kmthorsnes/todo-app/blob/master/screenshots/Skjermbilde3.png?raw=true "Optional title")
 
-* Database initialization
+![Screenshot](https://github.com/kmthorsnes/todo-app/blob/master/screenshots/Skjermbilde4.png?raw=true "Optional title")
 
-* How to run the test suite
+## Acknowledgments
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [David Allen](https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3) - Inspiration and code base

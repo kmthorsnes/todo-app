@@ -17,7 +17,7 @@ class TodoListsTest < ApplicationSystemTestCase
     fill_in "Description", with: @todo_list.description
     fill_in "String", with: @todo_list.string
     fill_in "Title", with: @todo_list.title
-    click_on "Create Todo list"
+    click_on "Create bæsj"
 
     assert_text "Todo list was successfully created"
     click_on "Back"
@@ -30,7 +30,7 @@ class TodoListsTest < ApplicationSystemTestCase
     fill_in "Description", with: @todo_list.description
     fill_in "String", with: @todo_list.string
     fill_in "Title", with: @todo_list.title
-    click_on "Update Todo list"
+    click_on "Update Todo hore"
 
     assert_text "Todo list was successfully updated"
     click_on "Back"
